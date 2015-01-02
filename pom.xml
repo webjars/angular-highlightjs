@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-highlightjs</artifactId>
-    <version>0.3.2-SNAPSHOT</version>
+    <version>0.3.2</version>
     <name>angular-highlightjs</name>
     <description>WebJar for angular-highlightjs</description>
     <url>http://webjars.org</url>
@@ -55,7 +55,7 @@
         <url>http://github.com/webjars/angular-highlightjs</url>
         <connection>scm:git:https://github.com/webjars/angular-highlightjs.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/angular-highlightjs.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>angular-highlightjs-0.3.2</tag>
     </scm>
     
     <dependencies>
